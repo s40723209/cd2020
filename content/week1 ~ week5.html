@@ -156,26 +156,36 @@ img.add_border {
         </header>
     <div id="tipue_search_content">weeks << <a href='weeks.html'>Previous</a> <a href='About.html'>Next</a> >> About<br /><h1>week1 ~ week5</h1>
 <p>week1</p>
-<p>1.建立個人倉儲及網站編譯</p>
+<p><strong>建立個人倉儲及網站編譯</strong></p>
 <p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/bl73noVMBFU" width="560"></iframe></p>
 <p>week2</p>
-<p>升級python3.8.2</p>
+<p><strong>升級python3.8.2</strong></p>
 <p>1.先新增data資料夾，在data下新增資料夾py382、wscite432、portablegitwscite432、portablegit。</p>
-<p>2.到https://www.python.org/downloads/release/python-382/ 下載Windows x86 web-based installer。</p>
+<p>2.到<a href="https://www.python.org/downloads/release/python-382/">https://www.python.org/downloads/release/python-382/</a> 下載Windows x86 web-based installer。</p>
 <p>3.開始下載，必須將pip選項取消，接著按下next並將檔案下載至資料夾py382。</p>
 <p>4.到<a href="https://www.scintilla.org/SciTEDownload.html">https://www.scintilla.org/SciTEDownload.html</a> 下載<a href="https://www.scintilla.org/wscite432.zip">full 64-bit download</a> ，下載完成後解壓縮到資料夾<span>wscite432。</span></p>
 <p><span>5.建立新的start.bat及stop.bat。(下方)</span></p>
 <p><span>6.下載MSYS2 <a class="button" href="http://repo.msys2.org/distrib/x86_64/msys2-x86_64-20190524.exe">msys2-x86_64-20190524.exe</a><span> 至data下。</span></span></p>
 <p><span><span>7.<span color="#000000">到</span><a href="https://bootstrap.pypa.io/get-pip.py">https://bootstrap.pypa.io/get-pip.py</a><span>頁面，滑鼠右鍵另存新檔到data下。</span></span></span></p>
 <p><span><span><span>8.輸入指令</span></span></span></p>
-<p><span><span><span><code class="py plain">python get</code><code class="py keyword">-</code><code class="py plain">pip.py</code></span></span></span></p>
-<p><span><span><span><code class="py plain">pip install flask bs4 lxml pelican markdown flask_cors leo</code></span></span></span></p>
-<p><span>start.bat</span></p>
-<p><span>@echo off<br/>set Disk=y<br/>subst %Disk%: "data"<br/> <br/>%Disk%:<br/> <br/>set HomePath=%Disk%:\home<br/>set HomeDrive=%Disk%:\home<br/>set Home=%Disk%:\home<br/>set USERPROFILE=%Disk%:\home<br/> <br/>REM 將系統 Python 程式的 io 設為 utf-8<br/>set PYTHONIOENCODING="utf-8"<br/> <br/>set PYTHONPATH=%Disk%:\py381\DLLs;%Disk%:\py381\Lib;%Disk%:\py381\Lib\site-packages;<br/>set PYTHONHOME=%Disk%:\py381<br/> <br/>#REM for putty<br/>#Set GIT_HOME=%CDisk%:\portablegit\bin\<br/>#Set GIT_SSH=%Disk%:\putty\plink.exe<br/> <br/>set path_python=%Disk%:\py381;%Disk%:\py381\Scripts;<br/>set path_msys2=%Disk%:\msys64\mingw64\bin;<br/>set path_git=%Disk%:\portablegit\bin;<br/>set path_cmake=%Disk%:\cmake-3.10.1-win64-x64\bin;<br/>set path_vscode=%Disk%:\vscode;<br/>set path_tcc=%Disk%:\tcc;<br/> <br/> <br/>path=%Disk%:;%path_python%;%path_msys2%;%path_git%;%path_cmake%;%path_tcc%;<br/> <br/>start /MIN cmd.exe<br/>start /MIN cmd.exe<br/>start /MIN cmd.exe<br/>start /MIN cmd.exe<br/> <br/>start /MIN %Disk%:\wscite\SciTE.exe<br/>start /MIN %Disk%:\wscite\SciTE.exe<br/> <br/>Exit</span></p>
-<p><span>stop.ba<span>t</span></span></p>
-<p><span><span>@echo off<br/>set Disk=y<br/>path=%PATH%;<br/> <br/>taskkill /IM python.exe /F<br/>taskkill /IM pythonw.exe /F<br/>taskkill /IM scite.exe /F<br/>taskkill /IM ShareX.exe /F<br/> <br/>REM 終止虛擬硬碟與目錄的對應<br/>subst %Disk%: /D<br/>REM 關閉 cmd 指令視窗<br/>taskkill /IM cmd.exe /F<br/> <br/>EXIT</span></span></p>
-<p></p>
-<p></p>
+<p><strong><code class="py plain">python get</code><code class="py keyword">-</code><code class="py plain">pip.py</code></strong></p>
+<p><strong><code class="py plain">pip install flask bs4 lxml pelican markdown flask_cors leo</code></strong></p>
+<p><strong>9.git clone自己的倉儲</strong></p>
+<p><strong>start.bat</strong></p>
+<p><span><img alt="" height="462" src="./../images/未命名.png" width="500"/></span></p>
+<p><strong>stop.bat</strong></p>
+<p><img alt="" height="286" src="./../images/未命名1.png" width="269"/></p>
+<p><strong>影片:</strong></p>
+<p><strong></strong></p>
+<p><strong>第三組第一次小組會議:</strong></p>
+<p><strong>會議內容</strong>:討論工作內容</p>
+<p>作業1:</p>
+<p><span>1.請描述如何針對該課程進行有效的隨機分組，或者隨機進行點名？</span><br/><br/><span>2.描述如何為Windows 10 64位系統準備一個可移植的Python編程系統，以允許在Github上維護CMSiMDE網站，Pelican博客和js演示文稿？</span><br/><br/><span>3.您需要從</span><a href="http://www.coppeliarobotics.com/helpFiles/index.html">http://www.coppeliarobotics.com/helpFiles/index.html</a><span>了解什麼來實現四輪機器人？</span></p>
+<p><span>注意事項:</span></p>
+<p><span>1.3/26(四)之前要做完，做成pdf檔繳交。</span></p>
+<p><span>2.有問題到gitter上提問。</span></p>
+<p><span>3.每週要更新上傳。</span></p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/ZMKNMympFY0" width="560"></iframe></p>
 <p></p>
 <br />weeks << <a href='weeks.html'>Previous</a> <a href='About.html'>Next</a> >> About</div>
         
