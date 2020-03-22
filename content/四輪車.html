@@ -154,9 +154,30 @@ img.add_border {
           </div>
           
         </header>
-    <div id="tipue_search_content"> <a href='week1 ~ week5.html'>Next</a> >> week1 ~ week5<br /><h1>weeks</h1>
-<p><a href="https://s40723209.github.io/cd2020/content/week1%20~%20week5.html">week1 ~ week5</a></p>
-<br /> <a href='week1 ~ week5.html'>Next</a> >> week1 ~ week5</div>
+    <div id="tipue_search_content">Assignments << <a href='Assignments.html'>Previous</a> <a href='About.html'>Next</a> >> About<br /><h1>四輪車</h1>
+<p>從<span> </span><a href="http://www.coppeliarobotics.com/helpFiles/index.html">http://www.coppeliarobotics.com/helpFiles/index.html</a> 裡挑了五個有關四輪車的章節來翻譯了解。</p>
+<p><span style="color: #ff0000;"><strong>章節:Line following BubbleRob tutorial</strong></span></p>
+<p><span>在CoppeliaSim的安裝文件夾中的tutorials / BubbleRob中加載第一個BubbleRob教程的場景。</span></p>
+<p><span><img alt="" height="324" src="./../images/14.jpg" width="500"/></span></p>
+<p><span>我們首先創建3個視覺傳感器中的第一個，並將其附加到bubbleRob對象。選擇[菜單欄-&gt;添加-&gt;視覺傳感器-&gt;正交類型]。通過雙擊場景層次中新創建的視覺傳感器圖標來編輯其屬性，並更改參數以反映。</span></p>
+<p><span lang="zh-TW"><span><img alt="" height="615" src="./../images/15.jpg" width="396"/></span></span></p>
+<p><span>視覺傳感器必鬚麵向地面，因此選擇它，然後在“方向”對話框中的“方向”選項卡上，將“ Alpha-Beta-Gamma”項設置為[180; 0; 0]。</span></p>
+<p><span>我們有幾種可能性可以讀取視覺傳感器。由於我們的視覺傳感器只有一個像素，並且操作簡單，因此我們只需查詢視覺傳感器讀取的圖像的平均強度值即可。對於更複雜的情況，我們可以設置視覺回調函數。現在，複製並粘貼視覺傳感器兩次，並將其名稱調整為leftSensor，middleSensor和rightSensor。</span></p>
+<p><span><img alt="" height="254" src="./../images/16.jpg" width="237"/></span></p>
+<p><span lang="zh-TW"></span></p>
+<p><span lang="zh-TW">讓我們正確放置傳感器。為此，使用位置對話框，在位置選項卡上，並設置以下絕對坐標：</span></p>
+<ul>
+<li><span lang="zh-TW">左傳感器：[0.2; 0.042; 0.018]</span></li>
+<li><span lang="zh-TW">中間傳感器：[0.2; 0; 0.018]</span></li>
+<li><span lang="zh-TW">右傳感器：[0.2; -0.042; 0.018]</span></li>
+</ul>
+<p><span>現在讓我們修改環境。我們可以移去BubbleRob前面的幾個圓柱體。接下來，我們將構建機器人將嘗試遵循的路徑。從現在開始最好切換到頂視圖：通過頁面選擇器工具欄按鈕選擇頁面4。然後單擊[菜單欄-&gt;添加-&gt;路徑-&gt;圓圈類型]。使用鼠標啟用對象移動。</span></p>
+<p><span lang="zh-TW">選擇路徑（並且只有路徑）後，按住Ctrl並單擊其控制點之一。然後可以將它們拖動到正確的位置。</span></p>
+<p><span>選擇路徑後，進入路徑編輯模式。在那裡，您可以靈活地調整各個路徑控制點。</span></p>
+<p><span>一旦對路徑的幾何形狀滿意（您隨時可以在以後的階段對其進行修改），請選擇它，然後在路徑屬性中取消選中“顯示點的方向”，“顯示路徑線”和“顯示路徑上的當前位置”。然後單擊顯示路徑整形對話框。這將打開路徑整形對話框。單擊啟用路徑整形，將類型設置為水平線段，並將縮放因子設置為4.0。最後將顏色調整為黑色。我們必須對路徑進行最後一個重要的調整：當前，路徑的z位置與地板的z位置重合。結果是有時我們會看到路徑，有時會看到地板（這種效果在openGl行話中被稱為“ z-fighting”）。這不僅影響我們所看到的，而且還會影響視覺傳感器所看到的。為了避免與z戰鬥有關的問題，只需將路徑對象的位置向上移動0.5毫米即可。</span></p>
+<p><span>最後一步是調整BubbleRob的控制器，使其也將遵循黑色路徑。</span></p>
+<p><span lang="zh-TW"></span></p>
+<br />Assignments << <a href='Assignments.html'>Previous</a> <a href='About.html'>Next</a> >> About</div>
         
     <!-- footer -->
       <div class="container">

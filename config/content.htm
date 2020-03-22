@@ -5,7 +5,7 @@
 <p><strong>建立個人倉儲及網站編譯</strong></p>
 <p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/bl73noVMBFU" width="560"></iframe></p>
 <p><strong>week2</strong></p>
-<p><strong>升級python3.8.2</strong></p>
+<p><span style="color: #ff0000;"><strong>升級python3.8.2</strong></span></p>
 <p>1.先新增data資料夾，在data下新增資料夾py382、wscite432、portablegitwscite432、portablegit。</p>
 <p>2.到<a href="https://www.python.org/downloads/release/python-382/">https://www.python.org/downloads/release/python-382/</a> 下載Windows x86 web-based installer。</p>
 <p>3.開始下載，必須將pip選項取消，接著按下next並將檔案下載至資料夾py382。</p>
@@ -14,27 +14,29 @@
 <p><span>6.下載MSYS2 <a class="button" href="http://repo.msys2.org/distrib/x86_64/msys2-x86_64-20190524.exe">msys2-x86_64-20190524.exe</a><span> 至data下。</span></span></p>
 <p><span><span>7.<span color="#000000">到</span><a href="https://bootstrap.pypa.io/get-pip.py">https://bootstrap.pypa.io/get-pip.py</a><span>頁面，滑鼠右鍵另存新檔到data下。</span></span></span></p>
 <p><span><span><span>8.輸入指令</span></span></span></p>
-<p><strong><code class="py plain">python get</code><code class="py keyword">-</code><code class="py plain">pip.py</code></strong></p>
-<p><strong><code class="py plain">pip install flask bs4 lxml pelican markdown flask_cors leo</code></strong></p>
+<ul>
+<li><span style="color: #ff0000;"><strong><code class="py plain">python get</code><code class="py keyword">-</code><code class="py plain">pip.py</code></strong></span></li>
+<li><span style="color: #ff0000;"><strong><code class="py plain">pip install flask bs4 lxml pelican markdown flask_cors leo</code></strong></span></li>
+</ul>
 <p>9.git clone自己的倉儲</p>
-<p><strong>start.bat</strong></p>
+<p><span style="color: #ff0000;"><strong>start.bat</strong></span></p>
 <p><span><img alt="" height="462" src="/images/未命名.png" width="500"/></span></p>
-<p><strong>stop.bat</strong></p>
+<p><span style="color: #ff0000;"><strong>stop.bat</strong></span></p>
 <p><img alt="" height="286" src="/images/未命名1.png" width="269"/></p>
 <p><strong>影片:</strong></p>
 <p><strong></strong></p>
-<p><strong>第三組第一次小組會議:</strong></p>
-<p><strong>會議內容</strong>:討論工作內容</p>
-<p>作業1:</p>
+<p><span style="color: #ff0000;"><strong>第三組第一次小組會議:</strong></span></p>
+<p><span style="color: #000000;"><strong>會議內容:討論工作內容</strong></span></p>
+<p><span style="color: #ff0000;">作業1:</span></p>
 <p><span>1.請描述如何針對該課程進行有效的隨機分組，或者隨機進行點名？</span><br/><br/><span>2.描述如何為Windows 10 64位系統準備一個可移植的Python編程系統，以允許在Github上維護CMSiMDE網站，Pelican博客和js演示文稿？</span><br/><br/><span>3.您需要從</span><a href="http://www.coppeliarobotics.com/helpFiles/index.html">http://www.coppeliarobotics.com/helpFiles/index.html</a><span>了解什麼來實現四輪機器人？</span></p>
-<p><span>注意事項:</span></p>
+<p><span style="color: #ff0000;">注意事項:</span></p>
 <p><span>1.3/26(四)之前要做完，做成pdf檔繳交。</span></p>
 <p><span>2.有問題到gitter上提問。</span></p>
 <p><span>3.每週要更新上傳。</span></p>
 <p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/ZMKNMympFY0" width="560"></iframe></p>
 <p><strong>week3</strong></p>
 <p>工作任務:您需要從http://www.coppeliarobotics.com/helpFiles/index.html了解什麼來實現四輪機器人？</p>
-<p>章節:BubbleRob tutorial</p>
+<p><span style="color: #ff0000;">分配到翻譯章節:BubbleRob tutorial</span></p>
 <p><img alt="" height="324" src="/images/1.jpg" width="500"/></p>
 <p>我們使用[菜單欄-&gt;添加-&gt;基本形狀-&gt;球體]將直徑為0.2的基本球體添加到場景中。我們將X尺寸項目調整為0.2，然後點擊“確定”。默認情況下，創建的球體將顯示在可見性層1中，並且是動態且可響應的（因為我們已啟用“創建動態且可響應的形狀”項）。我們開始模擬，複製並貼上創建的球體（使用[菜單欄-&gt;編輯-&gt;複製所選對象]，然後[菜單欄-&gt;編輯-&gt;黏貼緩衝區]，這兩個球將對碰撞做出反應並滾動。</p>
 <p>我們在“平移”選項卡上打開“位置”對話框，選擇表示BubbleRob身體的球體，並為“沿Z”輸入0.02。確保將“相對於”項設置為“世界”。然後我們點擊翻譯選擇。這會將所有選定對象沿絕對Z軸平移2 cm，並有效地將我們的球體抬高了一點。在場景層次結構中，我們雙擊球體的名稱，以便我們可以編輯其名稱。我們輸入bubbleRob，然後按Enter。</p>
@@ -73,6 +75,30 @@
 <p>我們場景所需的最後一件事是一個小的子腳本，它將控制BubbleRob的行為。我們選擇bubbleRob並點擊[菜單欄-&gt;添加-&gt;關聯的子腳本-&gt;非線程]。我們點擊場景層次結構中bubbleRob名稱旁邊顯示的腳本圖標，然後將以下代碼複製並粘貼到腳本編輯器中，然後將其關閉。</p>
 <p><img alt="" height="323" src="/images/13.png" width="500"/></p>
 <p>我們運行模擬。 BubbleRob現在在嘗試避開障礙物的同時向前移動（以非常基本的方式）。在模擬仍在運行時，更改BubbleRob的速度，然後將其複制/貼上幾次。在模擬仍在運行時，也嘗試擴展其中的一些。請注意，根據環境的不同，最小距離計算功能可能會嚴重降低仿真速度。您可以通過選中/取消選中“啟用所有距離計算”項來在“距離”對話框中打開和關閉該功能。</p>
+<h1>Assignments</h1>
+<h3>四輪車</h3>
+<p>從<span> </span><a href="http://www.coppeliarobotics.com/helpFiles/index.html">http://www.coppeliarobotics.com/helpFiles/index.html</a> 裡挑了五個有關四輪車的章節來翻譯了解。</p>
+<p><span style="color: #ff0000;"><strong>章節:Line following BubbleRob tutorial</strong></span></p>
+<p><span>在CoppeliaSim的安裝文件夾中的tutorials / BubbleRob中加載第一個BubbleRob教程的場景。</span></p>
+<p><span><img alt="" height="324" src="/images/14.jpg" width="500"/></span></p>
+<p><span>我們首先創建3個視覺傳感器中的第一個，並將其附加到bubbleRob對象。選擇[菜單欄-&gt;添加-&gt;視覺傳感器-&gt;正交類型]。通過雙擊場景層次中新創建的視覺傳感器圖標來編輯其屬性，並更改參數以反映。</span></p>
+<p><span lang="zh-TW"><span><img alt="" height="615" src="/images/15.jpg" width="396"/></span></span></p>
+<p><span>視覺傳感器必鬚麵向地面，因此選擇它，然後在“方向”對話框中的“方向”選項卡上，將“ Alpha-Beta-Gamma”項設置為[180; 0; 0]。</span></p>
+<p><span>我們有幾種可能性可以讀取視覺傳感器。由於我們的視覺傳感器只有一個像素，並且操作簡單，因此我們只需查詢視覺傳感器讀取的圖像的平均強度值即可。對於更複雜的情況，我們可以設置視覺回調函數。現在，複製並粘貼視覺傳感器兩次，並將其名稱調整為leftSensor，middleSensor和rightSensor。</span></p>
+<p><span><img alt="" height="254" src="/images/16.jpg" width="237"/></span></p>
+<p><span lang="zh-TW"></span></p>
+<p><span lang="zh-TW">讓我們正確放置傳感器。為此，使用位置對話框，在位置選項卡上，並設置以下絕對坐標：</span></p>
+<ul>
+<li><span lang="zh-TW">左傳感器：[0.2; 0.042; 0.018]</span></li>
+<li><span lang="zh-TW">中間傳感器：[0.2; 0; 0.018]</span></li>
+<li><span lang="zh-TW">右傳感器：[0.2; -0.042; 0.018]</span></li>
+</ul>
+<p><span>現在讓我們修改環境。我們可以移去BubbleRob前面的幾個圓柱體。接下來，我們將構建機器人將嘗試遵循的路徑。從現在開始最好切換到頂視圖：通過頁面選擇器工具欄按鈕選擇頁面4。然後單擊[菜單欄-&gt;添加-&gt;路徑-&gt;圓圈類型]。使用鼠標啟用對象移動。</span></p>
+<p><span lang="zh-TW">選擇路徑（並且只有路徑）後，按住Ctrl並單擊其控制點之一。然後可以將它們拖動到正確的位置。</span></p>
+<p><span>選擇路徑後，進入路徑編輯模式。在那裡，您可以靈活地調整各個路徑控制點。</span></p>
+<p><span>一旦對路徑的幾何形狀滿意（您隨時可以在以後的階段對其進行修改），請選擇它，然後在路徑屬性中取消選中“顯示點的方向”，“顯示路徑線”和“顯示路徑上的當前位置”。然後單擊顯示路徑整形對話框。這將打開路徑整形對話框。單擊啟用路徑整形，將類型設置為水平線段，並將縮放因子設置為4.0。最後將顏色調整為黑色。我們必須對路徑進行最後一個重要的調整：當前，路徑的z位置與地板的z位置重合。結果是有時我們會看到路徑，有時會看到地板（這種效果在openGl行話中被稱為“ z-fighting”）。這不僅影響我們所看到的，而且還會影響視覺傳感器所看到的。為了避免與z戰鬥有關的問題，只需將路徑對象的位置向上移動0.5毫米即可。</span></p>
+<p><span>最後一步是調整BubbleRob的控制器，使其也將遵循黑色路徑。</span></p>
+<p><span lang="zh-TW"></span></p>
 <h1>About</h1>
 <p>此內容管理系統以 <a href="https://github.com/mdecourse/cmsimde">https://github.com/mdecourse/cmsimde</a> 作為 submodule 運作, 可以選定對應的版本運作, cmsimde 可以持續改版, 不會影響之前設為 submodule, 使用舊版 cmsimde 模組的內容管理相關運作.</p>
 <h4>利用 cmsimde 建立靜態網誌方法:</h4>
