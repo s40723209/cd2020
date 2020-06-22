@@ -30,7 +30,7 @@
 <v t="leo.20200622213854.1"><vh>直播會議分配Assingment1</vh>
 <v t="leo.20200622213854.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20200623000646.1"><vh>封面投影片</vh>
+<v t="leo.20200623000646.1"><vh>w6~w9</vh>
 <v t="leo.20200623000646.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20200623000644.1"><vh>封面投影片</vh>
@@ -249,8 +249,8 @@ vertical: body pane on the botton</t>
 ####  [BubbleRob tutorial.pdf](https://github.com/s40723209/cd2020/blob/master/downloads/BubbleRob%20tutorial.pdf)
 ####  [Line following BubbleRob tutorial](https://github.com/s40723209/cd2020/blob/master/downloads/Line%20following%20BubbleRob%20tutorial.pdf)
 ####  [External controller tutorial](https://github.com/s40723209/cd2020/blob/master/downloads/External%20controller%20tutorial.pdf)
-####  [Simulation dialog]()
-####  Simulation</t>
+####  [Simulation dialog](https://github.com/s40723209/cd2020/blob/master/downloads/Simulation%20dialog.pdf)
+####  [Simulation](https://github.com/s40723209/cd2020/blob/master/downloads/Simulation.pdf)</t>
 <t tx="leo.20200622213858.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -387,12 +387,10 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200623000646.2">###  虎科大機械工程系
-###  S40723209協同設計簡報
-####  [個人倉儲](https://github.com/s40723209/cd2020)
-####  [個人網站](https://s40723209.github.io/cd2020/content/index.html)
-
-
-</t>
+<t tx="leo.20200623000646.2">###  [week6~week9](https://s40723209.github.io/cd2020/content/week6%20~%209.html)
+####  開直播分配Assingment2作業
+####  四輪車基本外型設計及鍵盤操控
+####  總結Assingment2報告
+####  期中報告</t>
 </tnodes>
 </leo_file>
