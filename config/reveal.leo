@@ -246,10 +246,10 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200622213856.2">###  [Assingment1作業](https://s40723209.github.io/cd2020/content/%E5%9B%9B%E8%BC%AA%E8%BB%8A%E6%89%8B%E5%86%8A.html)
 ####  翻譯章節:
-####  [BubbleRob tutorial.pdf]()
-####  [Line following BubbleRob tutorial]()
-####  External controller tutorial
-####  Simulation dialog
+####  [BubbleRob tutorial.pdf](https://github.com/s40723209/cd2020/blob/master/downloads/BubbleRob%20tutorial.pdf)
+####  [Line following BubbleRob tutorial](https://github.com/s40723209/cd2020/blob/master/downloads/Line%20following%20BubbleRob%20tutorial.pdf)
+####  [External controller tutorial](https://github.com/s40723209/cd2020/blob/master/downloads/External%20controller%20tutorial.pdf)
+####  [Simulation dialog]()
 ####  Simulation</t>
 <t tx="leo.20200622213858.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
