@@ -18,8 +18,8 @@
 <v t="leo.20180902120523.6"><vh>body</vh>
 <v t="leo.20180902120523.7"><vh>reveal div</vh>
 <v t="leo.20180902120523.8"><vh>slides div</vh>
-<v t="leo.20200622213900.1"><vh>封面投影片</vh>
-<v t="leo.20200622213900.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200623075622.1"><vh>封面投影片</vh>
+<v t="leo.20200623075622.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20200622213858.1"><vh>w1~w5</vh>
 <v t="leo.20200622213858.2"><vh>封面投影片內容</vh></v>
@@ -33,23 +33,26 @@
 <v t="leo.20200623000646.1"><vh>w6~w9</vh>
 <v t="leo.20200623000646.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20200623000644.1"><vh>封面投影片</vh>
+<v t="leo.20200623000644.1"><vh>Assingment2作業</vh>
 <v t="leo.20200623000644.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20200623000640.1"><vh>封面投影片</vh>
+<v t="leo.20200623000640.1"><vh>直播會議分配Assingment2</vh>
 <v t="leo.20200623000640.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20200623000638.1"><vh>封面投影片</vh>
+<v t="leo.20200623000638.1"><vh>w10~w14</vh>
 <v t="leo.20200623000638.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20200623000635.1"><vh>封面投影片</vh>
+<v t="leo.20200623000635.1"><vh>Assingment3作業</vh>
 <v t="leo.20200623000635.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20200623000632.1"><vh>封面投影片</vh>
+<v t="leo.20200623000632.1"><vh>直播會議分配Assingment3</vh>
 <v t="leo.20200623000632.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20200623000605.1"><vh>封面投影片</vh>
+<v t="leo.20200623000605.1"><vh>w15~w18</vh>
 <v t="leo.20200623000605.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200622213900.1"><vh>Final project</vh>
+<v t="leo.20200622213900.2"><vh>封面投影片內容</vh></v>
 </v>
 </v>
 </v>
@@ -75,7 +78,7 @@
 <t tx="leo.20180902120523.5">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
-CMSimfly 網際內容管理
+s40723209 reveal
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -244,7 +247,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200622213856.2">###  [Assingment1作業](https://s40723209.github.io/cd2020/content/%E5%9B%9B%E8%BC%AA%E8%BB%8A%E6%89%8B%E5%86%8A.html)
+<t tx="leo.20200622213856.2">###  [Assingment1作業](https://github.com/s40723209/cd2020/blob/master/downloads/Assignment%201.pdf)
 ####  翻譯章節:
 ####  [BubbleRob tutorial.pdf](https://github.com/s40723209/cd2020/blob/master/downloads/BubbleRob%20tutorial.pdf)
 ####  [Line following BubbleRob tutorial](https://github.com/s40723209/cd2020/blob/master/downloads/Line%20following%20BubbleRob%20tutorial.pdf)
@@ -264,7 +267,7 @@ vertical: body pane on the botton</t>
 ####  亂數分組
 ####  建立個人倉儲及網站編譯
 ####  升級python3.8.2
-####  開直播分配Assingment1作業
+####  直播分配Assingment1作業
 ####  總結Assingment1報告</t>
 <t tx="leo.20200622213900.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -275,11 +278,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200622213900.2">###  虎科大機械工程系
-###  S40723209協同設計簡報
-####  [個人倉儲](https://github.com/s40723209/cd2020)
-####  [個人網站](https://s40723209.github.io/cd2020/content/index.html)
-
+<t tx="leo.20200622213900.2">###  [Final project](https://s40723209.github.io/cd2020/content/Final%20project.html)
 
 </t>
 <t tx="leo.20200623000605.1">&lt;section data-markdown&gt;
@@ -290,13 +289,13 @@ vertical: body pane on the botton</t>
 
 
 						
+
 </t>
-<t tx="leo.20200623000605.2">###  虎科大機械工程系
-###  S40723209協同設計簡報
-####  [個人倉儲](https://github.com/s40723209/cd2020)
-####  [個人網站](https://s40723209.github.io/cd2020/content/index.html)
-
-
+<t tx="leo.20200623000605.2">###  [week15~week18](https://s40723209.github.io/cd2020/content/week15%20~18.html)
+####  mini project抽點
+####  IPV6虛擬主機對外連接
+####  Final project報告
+####  期末報告
 </t>
 <t tx="leo.20200623000632.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -307,13 +306,8 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200623000632.2">###  虎科大機械工程系
-###  S40723209協同設計簡報
-####  [個人倉儲](https://github.com/s40723209/cd2020)
-####  [個人網站](https://s40723209.github.io/cd2020/content/index.html)
-
-
-</t>
+<t tx="leo.20200623000632.2">###  [直播會議分配Assingment3作業](https://www.youtube.com/watch?v=jyIoV8YR-b4)
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jyIoV8YR-b4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200623000635.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -323,13 +317,10 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200623000635.2">###  虎科大機械工程系
-###  S40723209協同設計簡報
-####  [個人倉儲](https://github.com/s40723209/cd2020)
-####  [個人網站](https://s40723209.github.io/cd2020/content/index.html)
-
-
-</t>
+<t tx="leo.20200623000635.2">###  [Assingment3作業](https://github.com/s40723209/cd2020/blob/master/downloads/Assignment%203-.pdf)
+####  翻譯章節:
+####  [MechaFutureAndChallenges](https://s40723209.github.io/cd2020/content/MechaFutureAndChallenges.html)
+####  [MechaEducFutureNeed](https://s40723209.github.io/cd2020/content/MechaEducFutureNeed.html)</t>
 <t tx="leo.20200623000638.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -339,13 +330,14 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200623000638.2">###  虎科大機械工程系
-###  S40723209協同設計簡報
-####  [個人倉儲](https://github.com/s40723209/cd2020)
-####  [個人網站](https://s40723209.github.io/cd2020/content/index.html)
-
-
-</t>
+<t tx="leo.20200623000638.2">###  [week10~week14](https://s40723209.github.io/cd2020/content/week10%20~%2014.html)
+####  直播分配Assingment3作業
+####  gm用戶登入設置
+####  Ubuntu設定
+####  總結Assingment3報告
+####  每週小組直播會議
+####  mini project抽點
+####  IPV4虛擬主機遠端控制</t>
 <t tx="leo.20200623000640.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -355,13 +347,8 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200623000640.2">###  虎科大機械工程系
-###  S40723209協同設計簡報
-####  [個人倉儲](https://github.com/s40723209/cd2020)
-####  [個人網站](https://s40723209.github.io/cd2020/content/index.html)
-
-
-</t>
+<t tx="leo.20200623000640.2">###  [直播會議分配Assingment2作業](https://www.youtube.com/watch?v=IX0Xw1ROTgg&amp;t=328s)
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/IX0Xw1ROTgg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200623000644.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -371,13 +358,10 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200623000644.2">###  虎科大機械工程系
-###  S40723209協同設計簡報
-####  [個人倉儲](https://github.com/s40723209/cd2020)
-####  [個人網站](https://s40723209.github.io/cd2020/content/index.html)
-
-
-</t>
+<t tx="leo.20200623000644.2">###  [Assingment2作業](https://github.com/s40723209/cd2020/blob/master/downloads/Assignment%202-.pdf)
+####  翻譯章節:
+####  [DigitalProductCollaboration](https://github.com/s40723209/cd2020/blob/master/downloads/DesignCollaborationBetterProducts-.pdf)
+####  [IndustrialAndEngineeringProductDesignCollaboration](https://github.com/s40723209/cd2020/blob/master/downloads/IndustrialAndEngineeringProductDesignCollaboration-.pdf)</t>
 <t tx="leo.20200623000646.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -388,9 +372,25 @@ vertical: body pane on the botton</t>
 						
 </t>
 <t tx="leo.20200623000646.2">###  [week6~week9](https://s40723209.github.io/cd2020/content/week6%20~%209.html)
-####  開直播分配Assingment2作業
+####  直播分配Assingment2作業
 ####  四輪車基本外型設計及鍵盤操控
 ####  總結Assingment2報告
-####  期中報告</t>
+####  [期中報告](https://www.youtube.com/watch?v=p4yjM26K4xw&amp;t=26s)</t>
+<t tx="leo.20200623075622.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623075622.2">###  虎科大機械工程系
+###  S40723209協同設計簡報
+####  [個人倉儲](https://github.com/s40723209/cd2020)
+####  [個人網站](https://s40723209.github.io/cd2020/content/index.html)
+
+
+</t>
 </tnodes>
 </leo_file>
