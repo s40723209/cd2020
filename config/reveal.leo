@@ -249,11 +249,11 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200622213856.2">###  [Assingment1作業](https://github.com/s40723209/cd2020/blob/master/downloads/Assignment%201.pdf)
 ####  翻譯章節:
-####  [BubbleRob tutorial.pdf](https://github.com/s40723209/cd2020/blob/master/downloads/BubbleRob%20tutorial.pdf)
-####  [Line following BubbleRob tutorial](https://github.com/s40723209/cd2020/blob/master/downloads/Line%20following%20BubbleRob%20tutorial.pdf)
-####  [External controller tutorial](https://github.com/s40723209/cd2020/blob/master/downloads/External%20controller%20tutorial.pdf)
-####  [Simulation dialog](https://github.com/s40723209/cd2020/blob/master/downloads/Simulation%20dialog.pdf)
-####  [Simulation](https://github.com/s40723209/cd2020/blob/master/downloads/Simulation.pdf)</t>
+* #### [BubbleRob tutorial.pdf](https://github.com/s40723209/cd2020/blob/master/downloads/BubbleRob%20tutorial.pdf)
+* #### [Line following BubbleRob tutorial](https://github.com/s40723209/cd2020/blob/master/downloads/Line%20following%20BubbleRob%20tutorial.pdf)
+* #### [External controller tutorial](https://github.com/s40723209/cd2020/blob/master/downloads/External%20controller%20tutorial.pdf)
+* #### [Simulation dialog](https://github.com/s40723209/cd2020/blob/master/downloads/Simulation%20dialog.pdf)
+* #### [Simulation](https://github.com/s40723209/cd2020/blob/master/downloads/Simulation.pdf)</t>
 <t tx="leo.20200622213858.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -264,11 +264,11 @@ vertical: body pane on the botton</t>
 						
 </t>
 <t tx="leo.20200622213858.2">###  [week1~week5](https://s40723209.github.io/cd2020/content/week1%20~%205.html)
-####  亂數分組
-####  建立個人倉儲及網站編譯
-####  升級python3.8.2
-####  直播分配Assingment1作業
-####  總結Assingment1報告</t>
+* #### 亂數分組
+* #### 建立個人倉儲及網站編譯
+* #### 升級python3.8.2
+* #### 直播分配Assingment1作業
+* #### 總結Assingment1報告</t>
 <t tx="leo.20200622213900.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -292,10 +292,10 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200623000605.2">###  [week15~week18](https://s40723209.github.io/cd2020/content/week15%20~18.html)
-####  mini project抽點
-####  IPV6虛擬主機對外連接
-####  Final project報告
-####  期末報告
+* #### mini project抽點
+* #### IPV6虛擬主機對外連接
+* #### Final project報告
+* #### 期末報告
 </t>
 <t tx="leo.20200623000632.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -319,8 +319,8 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200623000635.2">###  [Assingment3作業](https://github.com/s40723209/cd2020/blob/master/downloads/Assignment%203-.pdf)
 ####  翻譯章節:
-####  [MechaFutureAndChallenges](https://s40723209.github.io/cd2020/content/MechaFutureAndChallenges.html)
-####  [MechaEducFutureNeed](https://s40723209.github.io/cd2020/content/MechaEducFutureNeed.html)</t>
+* #### [MechaFutureAndChallenges](https://s40723209.github.io/cd2020/content/MechaFutureAndChallenges.html)
+* #### [MechaEducFutureNeed](https://s40723209.github.io/cd2020/content/MechaEducFutureNeed.html)</t>
 <t tx="leo.20200623000638.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -331,13 +331,13 @@ vertical: body pane on the botton</t>
 						
 </t>
 <t tx="leo.20200623000638.2">###  [week10~week14](https://s40723209.github.io/cd2020/content/week10%20~%2014.html)
-####  直播分配Assingment3作業
-####  gm用戶登入設置
-####  Ubuntu設定
-####  總結Assingment3報告
-####  每週小組直播會議
-####  mini project抽點
-####  IPV4虛擬主機遠端控制</t>
+* ####  直播分配Assingment3作業
+* ####  gm用戶登入設置
+* ####  Ubuntu設定
+* ####  總結Assingment3報告
+* ####  每週小組直播會議
+* ####  mini project抽點
+* ####  IPV4虛擬主機遠端控制</t>
 <t tx="leo.20200623000640.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -360,8 +360,8 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200623000644.2">###  [Assingment2作業](https://github.com/s40723209/cd2020/blob/master/downloads/Assignment%202-.pdf)
 ####  翻譯章節:
-####  [DigitalProductCollaboration](https://github.com/s40723209/cd2020/blob/master/downloads/DigitalProductCollaboration.pdf-.pdf)
-####  [IndustrialAndEngineeringProductDesignCollaboration](https://github.com/s40723209/cd2020/blob/master/downloads/IndustrialAndEngineeringProductDesignCollaboration-.pdf)</t>
+* #### [DigitalProductCollaboration](https://github.com/s40723209/cd2020/blob/master/downloads/DigitalProductCollaboration.pdf-.pdf)
+* #### [IndustrialAndEngineeringProductDesignCollaboration](https://github.com/s40723209/cd2020/blob/master/downloads/IndustrialAndEngineeringProductDesignCollaboration-.pdf)</t>
 <t tx="leo.20200623000646.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -372,10 +372,10 @@ vertical: body pane on the botton</t>
 						
 </t>
 <t tx="leo.20200623000646.2">###  [week6~week9](https://s40723209.github.io/cd2020/content/week6%20~%209.html)
-####  直播分配Assingment2作業
-####  四輪車基本外型設計及鍵盤操控
-####  總結Assingment2報告
-####  [期中報告](https://www.youtube.com/watch?v=p4yjM26K4xw&amp;t=26s)</t>
+* #### 直播分配Assingment2作業
+* #### 四輪車基本外型設計及鍵盤操控
+* #### 總結Assingment2報告
+* #### [期中報告](https://www.youtube.com/watch?v=p4yjM26K4xw&amp;t=26s)</t>
 <t tx="leo.20200623075622.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -387,8 +387,8 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200623075622.2">###  虎科大機械工程系
 ###  S40723209協同設計簡報
-####  [個人倉儲](https://github.com/s40723209/cd2020)
-####  [個人網站](https://s40723209.github.io/cd2020/content/index.html)
+* #### [個人倉儲](https://github.com/s40723209/cd2020)
+* #### [個人網站](https://s40723209.github.io/cd2020/content/index.html)
 
 
 </t>
