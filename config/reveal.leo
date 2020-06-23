@@ -360,7 +360,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200623000644.2">###  [Assingment2作業](https://github.com/s40723209/cd2020/blob/master/downloads/Assignment%202-.pdf)
 ####  翻譯章節:
-####  [DigitalProductCollaboration](https://github.com/s40723209/cd2020/blob/master/downloads/DesignCollaborationBetterProducts-.pdf)
+####  [DigitalProductCollaboration](https://github.com/s40723209/cd2020/blob/master/downloads/DigitalProductCollaboration.pdf-.pdf)
 ####  [IndustrialAndEngineeringProductDesignCollaboration](https://github.com/s40723209/cd2020/blob/master/downloads/IndustrialAndEngineeringProductDesignCollaboration-.pdf)</t>
 <t tx="leo.20200623000646.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
