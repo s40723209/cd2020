@@ -295,7 +295,7 @@ vertical: body pane on the botton</t>
 * #### mini project抽點
 * #### IPV6虛擬主機對外連接
 * #### Final project報告
-* #### 期末報告
+* #### [期末報告](https://www.youtube.com/watch?v=qe54GUSk1JU)
 </t>
 <t tx="leo.20200623000632.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -337,7 +337,7 @@ vertical: body pane on the botton</t>
 * ####  總結Assingment3報告
 * ####  每週小組直播會議
 * ####  mini project抽點
-* ####  IPV4虛擬主機遠端控制</t>
+* ####  IPV4虛擬主機遠端控制及文件共享</t>
 <t tx="leo.20200623000640.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
